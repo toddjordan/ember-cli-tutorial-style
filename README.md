@@ -1,6 +1,8 @@
-# Ember-cli-tutorial-style
+# ember-cli-tutorial-style
 
-This README outlines the details of collaborating on this Ember addon.
+_Currently a work in progress_
+
+The purpose of this addon is to provide style to the [official ember tutorial](https://guides.emberjs.com/v2.5.0/tutorial/ember-cli/), while at the same time demonstrating how to install an addon in ember.
 
 ## Installation
 
