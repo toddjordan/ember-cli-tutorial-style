@@ -246,6 +246,10 @@ p {
   padding: 0 15px 0 0;
 }
 
+.listing h3 a {
+  display: inline;
+}
+
 .listing .map {
   position: absolute;
   top: 13px;
