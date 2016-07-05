@@ -230,7 +230,7 @@ p {
   display: none;
 }
 
-.listing a {
+.listing a.image {
   max-width: 150px;
   display: block;
 }
