@@ -215,7 +215,7 @@ p {
   border-radius: 5px;
 }
 
-.listing .wide {
+.listing a.image.wide {
   max-width: 100%;
   position: relative;
   z-index: 999;
