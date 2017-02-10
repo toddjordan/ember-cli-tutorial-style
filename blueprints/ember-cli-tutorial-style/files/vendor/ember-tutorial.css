@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
-
 /**
  * Base Elements
  */
@@ -38,10 +37,10 @@ p {
     line-height: 1.5;
     margin-bottom: 15px;
 }
-
 /**
  * Button
  */
+
 .button {
     padding: 12px 30px 13px;
     text-decoration: none;
@@ -56,20 +55,20 @@ p {
 .button:hover {
     opacity: 1;
 }
-
 /**
  * Body Container
  */
+
 .container {
     max-width: 1024px;
     min-height: 100vh;
     background: #f9f9f9;
     margin: 0 auto;
 }
-
 /**
  * Top Navigation
  */
+
 .menu {
     height: 4em;
     background-color: #677ae4;
@@ -156,17 +155,17 @@ p {
 .menu .results li:hover {
     background: #f3f3f3;
 }
-
 /**
  * Content Area
  */
+
 .body {
     padding: 15px;
 }
-
 /**
  * Similar to Jumbotron
  */
+
 .jumbo {
     padding: 50px;
     background: #f6f6f6;
@@ -191,10 +190,10 @@ p {
     top: -25px;
     right: -20px;
 }
-
 /**
  * Individual Listings
  */
+
 .listing {
     margin-top: 15px;
     background-color: #f6f6f6;
@@ -293,10 +292,10 @@ p {
     height: initial;
     position: static;
 }
-
 /**
  * Utilities
  */
+
 .light {
     font-weight: 300;
 }
@@ -323,4 +322,6 @@ p {
     background-repeat: no-repeat;
     height: 200px;
     width: 200px;
+    position: relative;
+    top: -50px;
 }
