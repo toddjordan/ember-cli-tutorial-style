@@ -87,8 +87,9 @@ p {
     left: -12px;
 }
 
-.menu a, .menu .links {
-  display: inline-block;
+.menu a,
+.menu .links {
+    display: inline-block;
 }
 
 .menu a {
@@ -109,8 +110,8 @@ p {
 }
 
 .menu .links a {
-  position: relative;
-  bottom: 5px;
+    position: relative;
+    bottom: 5px;
 }
 
 .list-filter input {
@@ -326,7 +327,7 @@ p {
 }
 
 .tomster {
-    background: url(http://emberjs.com/images/tomsters/teaching.png);
+    background: url(../assets/images/teaching.png);
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
