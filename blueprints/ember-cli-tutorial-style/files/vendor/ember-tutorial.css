@@ -298,7 +298,7 @@ p {
 .show-listing {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: calc(100% - 100px);
 }
 
 .show-listing > * {
