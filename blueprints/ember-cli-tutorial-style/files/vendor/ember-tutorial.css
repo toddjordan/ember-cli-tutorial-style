@@ -49,6 +49,7 @@ p {
   border: none;
   font-size: 16px;
   opacity: 0.9;
+  display: inline-block;
 }
 
 .button:hover {
@@ -189,7 +190,8 @@ p {
   margin-top: -25px;
 }
 
-.jumbo p {
+.jumbo p,
+.jumbo address {
   margin-bottom: 25px;
 }
 
@@ -199,6 +201,7 @@ p {
   top: -25px;
   right: -20px;
 }
+
 /**
  * Individual Listings
  */
