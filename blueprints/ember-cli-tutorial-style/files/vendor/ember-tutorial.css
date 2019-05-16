@@ -80,12 +80,15 @@ p {
 .menu h1 {
   padding: 7px 0 0 20px;
   color: #f9f9f9;
-  font-size: 1.8em;
 }
 
 .menu h1 em {
   position: relative;
   left: -12px;
+}
+
+.menu h1 em a {
+  font-size: 1.1em;
 }
 
 .menu a,
@@ -97,7 +100,7 @@ p {
   text-decoration: none;
   padding: 0 15px;
   color: #fff;
-  font-size: 20px;
+  font-size: 1.2em;
   font-weight: bold;
 }
 
